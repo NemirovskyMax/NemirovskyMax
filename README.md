@@ -25,5 +25,5 @@ I'm a beginner Frontend Developer passionate about building interactive web apps
 
 ## 📫 Contact Me
 - Email: artemjaik@gmail.com
-- LinkedIn: [your-profile](www.linkedin.com/in/максим-undefined-a8ba0b3b0)
+- LinkedIn: [Maxim Nemirovsky](https://www.linkedin.com/in/maxim-nemirovsky-a8ba0b3b0/)
 - Telegram: @Intellegent007
